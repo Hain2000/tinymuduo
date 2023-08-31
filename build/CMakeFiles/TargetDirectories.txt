@@ -1,3 +1,0 @@
-/home/hain/tinymuduo/build/CMakeFiles/rebuild_cache.dir
-/home/hain/tinymuduo/build/CMakeFiles/edit_cache.dir
-/home/hain/tinymuduo/build/CMakeFiles/tinymuduo.dir
